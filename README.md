@@ -13,5 +13,6 @@ Once you have all requirements installed, run the script and enter the info it n
 streamer name: the exact streamer's name  
 vod ID: The broadcast id can be found in the last part of the URL on twitchtracker. For example https://twitchtracker.com/hasanabi/streams/40383779998, the broadcast id is 40383779998.  
 start timestamp: formatted like this (YYYY-MM-DD HH:MM:SS) in UTC time.  
+if seconds are unknown, use -- for SS  
 
 Credit to u/ForgotMyPassword_III for outlining the steps implemented in this script and to Geeken on twitch for showing that it is possible in the first place. 
