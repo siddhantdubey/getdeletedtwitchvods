@@ -1,6 +1,8 @@
 # Download Deleted Twitch Vods
 
-#DISCLAIMER: I am fairly certain that for most streamers you can only obtain vods that were deleted within the last two months (60 days)
+# UPDATE: I am fairly sure that this script no longer works
+
+## DISCLAIMER: I am fairly certain that for most streamers you can only obtain vods that were deleted within the last two months (60 days)
 
 Requirements:
 - Hashlib. install if you don't have it
